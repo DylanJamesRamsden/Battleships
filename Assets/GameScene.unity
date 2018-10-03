@@ -141,6 +141,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   oceanTile: {fileID: 1279575840822834, guid: 85b52d6b25b43b84cb7e6c0cf4ffa496, type: 2}
+  missTile: {fileID: 1946680469764264, guid: 812900e82e4e54d46b26db55143868af, type: 2}
+  hitTile: {fileID: 1004245683392094, guid: 0916eeab24116704fbfaaac2b6720672, type: 2}
   size: 10
 --- !u!4 &1063617708
 Transform:
